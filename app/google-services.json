@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648742928859",
+    "project_id": "story16-6ec6f",
+    "storage_bucket": "story16-6ec6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648742928859:android:7dd8cf2f543a537787e7fe",
+        "android_client_info": {
+          "package_name": "com.alexbezhan.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUL9Bizk6yNEm883cUVYmEUoH6M80ERrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
